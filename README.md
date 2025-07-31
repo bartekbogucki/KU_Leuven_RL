@@ -1,0 +1,1 @@
+Developed and tested RL algorithms (Monte Carlo, SARSA, Q-learning, Dyna-Q, and Deep Q-Networks) in Python using OpenAI Gym and Minihack environments. Compared on-policy and off-policy strategies, and evaluated agent performance across diverse environments.
